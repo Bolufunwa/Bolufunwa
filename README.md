@@ -57,8 +57,8 @@ Outside technology and cybersecurity, I enjoy **planning events and producing mo
 ## 📫 How to Reach Me
 
 - **Location:** Ontario, Canada
-- **LinkedIn:** Add your LinkedIn profile URL here.
-- **Email:** Add your professional email address here.
+- **LinkedIn:** www.linkedin.com/in/bolarinwa-olufunwa
+
 
 I'm always open to connecting with like-minded professionals, learning from others, and exploring opportunities in cybersecurity, governance, risk, and compliance.
 
