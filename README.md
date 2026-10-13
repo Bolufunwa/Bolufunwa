@@ -3,7 +3,7 @@
 
 Welcome to my GitHub profile!
 
-I'm a **Digital Communication Analyst** based in **Ontario, Canada**, with interest in cybersecurity, Governance, Risk, and Compliance (GRC). I'm passionate about continuous learning, analytical thinking, data protection, and understanding how organizations manage risks while maintaining security and compliance. I'm building my knowledge and skills to pursue a career as a **GRC Analyst**.
+I'm a **Digital Conversation Analyst** based in **Ontario, Canada**, with a growing focus in cybersecurity, Governance, Risk, and Compliance (GRC). Interested in continuous learning, analytical thinking, data protection, and understanding how organizations manage risks while maintaining security and compliance. I'm building my knowledge and skills to pursue a career as a **GRC Analyst**.
 
 ## 📚 What I'm Currently Learning
 
