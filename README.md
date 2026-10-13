@@ -52,7 +52,7 @@ I'm continuously expanding my technical knowledge and exploring tools and practi
 
 ## 🎬 Fun Fact About Me
 
-Outside technology and cybersecurity, I enjoy **planning and executing events and producing movies**. I love bringing ideas to life through creativity, organization, teamwork, and attention to detail.
+Outside technology and cybersecurity, I enjoy **planning events and producing movies**. I love bringing ideas to life through creativity, organization, teamwork, and attention to detail.
 
 ## 📫 How to Reach Me
 
